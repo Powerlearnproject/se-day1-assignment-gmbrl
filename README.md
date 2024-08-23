@@ -46,9 +46,9 @@ What are some common challenges faced by software engineers? Provide strategies 
 ANSWER
       Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
       Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
-      Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase        maintenance costs.
-      Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies,         prioritization of tasks, and regular reassessment of project goals and timelines.
-
+      Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase  maintenance costs.
+      Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and 
+      timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 ANSWER
@@ -60,7 +60,6 @@ ANSWER
       identify and fix defects early in the development process, leading to higher-quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 ANSWER
